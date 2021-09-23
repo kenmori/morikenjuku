@@ -14,4 +14,11 @@ JavaScriptを学習したい方のコミュニティです
 
 <img src="https://terracetech.jp/wp-content/uploads/2021/06/多数.png" width="200" />
 
-Twitterをフォロー後、DMください
+
+### ドキュメント
+
+- [決まりごと](https://github.com/kenmori/morikenjuku/blob/main/doc/kimarigoto.md)
+- [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
+- [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
+- [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)
+

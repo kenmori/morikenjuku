@@ -25,3 +25,10 @@
 ```
 
 - 発表者には終了後次の発表者を指名していただきます
+
+## 他ドキュメント
+
+- [決まりごと](https://github.com/kenmori/morikenjuku/blob/main/doc/kimarigoto.md)
+- [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
+- [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
+- [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)
