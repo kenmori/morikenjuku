@@ -10,15 +10,11 @@ JavaScriptを学習したい方のコミュニティです
 
 [学習の様子](https://terracetech.jp/category/morikenjuku/)
 
-<img src="https://terracetech.jp/wp-content/uploads/2021/09/gakusyu.png" width="400" />
-
-<img src="https://terracetech.jp/wp-content/uploads/2021/06/多数.png" width="200" />
-
-
 ### ドキュメント
 
 - [決まりごと](https://github.com/kenmori/morikenjuku/blob/main/doc/kimarigoto.md)
 - [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
 - [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
 - [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)
+
 
