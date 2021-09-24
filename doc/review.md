@@ -158,3 +158,9 @@ IMO
 
 - もりたさんはレビューしますか？ -> もちろん積極的にしますが、塾生にレビューする機会も与えたいので譲ることもあります。あまりにも誰もしない、難しそうな課題に取り組んでいる場合などはレビューを積極的にします
 
+## 他ドキュメント
+
+- [決まりごと](https://github.com/kenmori/morikenjuku/blob/main/doc/kimarigoto.md)
+- [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
+- [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
+- [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)

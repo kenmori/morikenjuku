@@ -148,13 +148,16 @@ or
 
 - [覚えること](https://twitter.com/terrace_tech/status/1279183687012151296?s=20)
 
-
-
-
-
 ## FAQ
 
 - 学習の進め方がわからない -> まずはいつまでにどうなりたいか決めてください。決まったら自分に連絡ください
 - 課題は他にないのですか？ -> ご自身の中にある課題をこちらに教えてください。それに対していろいろな課題を出します
 
 - Web制作をしている人は今後塾に居続けることは可能なのでしょうか。 -> 現在フロントエンドを目指していない方がこの塾にいることは可能です
+
+## 他ドキュメント
+
+- [決まりごと](https://github.com/kenmori/morikenjuku/blob/main/doc/kimarigoto.md)
+- [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
+- [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
+- [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)

@@ -116,3 +116,10 @@
 - やめたい場合どうすればいいですか? -> もりけん塾の助けがいらなくなった場合もDM、もしくはプロフのタグをそっと外してください。違う言語をやりたい、試験がある、案件取れて忙しくなってきた、疲れた、など方向性が変わってきたらDMでもいいので教えてください。もしくは静かにフェードアウトしてもらっていいです
 
 - サーバーサイドに関しての質問も可能ですか -> いえ。自分自身が専門的ではないので控えようと思います
+
+## 他ドキュメント
+
+- [決まりごと](https://github.com/kenmori/morikenjuku/blob/main/doc/kimarigoto.md)
+- [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
+- [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
+- [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)
