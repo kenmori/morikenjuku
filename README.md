@@ -3,7 +3,8 @@
 ## もりけん塾
 
 
-<img src="https://terracetech.jp/wp-content/uploads/2021/04/無題214.png" width="600">
+<img src="https://kenjimorita.jp/wp-content/uploads/2021/09/white.png" width="600">
+
 
 TerraceTechが運用する、
 JavaScriptを学習したい方のコミュニティです
