@@ -34,8 +34,10 @@
 
 - 誰かにメンションでお願いする
 or
-- codeSandBoxのレビューガチャをしてください
-  - もう一人のレビューが欲しい場合もそれをして最初に出た人にメンションして頼んでください。ガチャは1回で、選ばないこと
+- codeSandBoxの[レビューガチャ](https://codesandbox.io/s/vibrant-feistel-9ceun?file=/index.html)をしてください
+  - もう一人のレビューが欲しい場合もそれをして最初に出た人にメンションして頼んでください。[ガチャ](https://codesandbox.io/s/vibrant-feistel-9ceun?file=/index.html)は1回で、選ばないこと
+
+**[ガチャ](https://codesandbox.io/s/vibrant-feistel-9ceun?file=/index.html)**
 
 ## PRの出し方
 
@@ -70,7 +72,7 @@ or
 
 1. `#レビュー部屋`に課題の番号でスレッドを立てる。スレッド名は`課題**`
 2. `@jukusei`メンションをつける
-3. 特に誰かレビュワーとして見てもらいたい方がいる場合はメンションする or レビュワーガチャを引く
+3. 特に誰かレビュワーとして見てもらいたい方がいる場合はメンションする or [レビュワーガチャ](https://codesandbox.io/s/vibrant-feistel-9ceun?file=/index.html)を引く
 4. スレッドの中にPRへのリンクを投稿してください
 
 
@@ -79,8 +81,8 @@ or
 **考え方**
 
 - レビューは上記で指定されていなくてもみなさん見てください
-- ガチャで当たらなかった方以外も見れるならみて指摘してもいいです。全員見てもいいですし、Approveしていいです
-- ガチャの方はマストです。たとえmergeされた後も見てください。見れないなら理由を添えてくれればskipしていいです。
+- [ガチャ](https://codesandbox.io/s/vibrant-feistel-9ceun?file=/index.html)で当たらなかった方以外も見れるならみて指摘してもいいです。全員見てもいいですし、Approveしていいです
+- [ガチャ](https://codesandbox.io/s/vibrant-feistel-9ceun?file=/index.html)の方はマストです。たとえmergeされた後も見てください。見れないなら理由を添えてくれればskipしていいです。
 - mergeされた後にコメントする場合、スレッド内に投稿してください
 - スレッドがなくなっていたら森田に教えてください
 - 自分は全てのPRのコードをもちろん見ますがコメントするタイミングは機会を潰さないように考えます。レビュワーに責任を持ってやってもらいたいのでわざと自分が入らないようにしたりしています

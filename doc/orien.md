@@ -21,11 +21,11 @@ Discordに入ったらDiscrod内で私宛にご連絡ください
 - `一般`・・・初めて訪れた方が見れるところ
 - `レビュー部屋`・・・・・・JS課題などの提出場所
 - `Web制作`・・・Web制作者のための情報共有部屋
-- `english-room`・・・英語で今日会ったこと、知りたいこと
 - `gitとgithub教えて`・・・gitとgithubを学ぶ部屋
 - `聞きたいことあります`・・・何か知りたいこと、疑問投稿
 - `リビング`・・・全員に対してのお知らせ
 - `独り言`・・・もりたの独り言
+- `言語チャレンジ`・・・言語の使い方やメソッドの理解をつけるハンズオン
 - `今ふと思ったこと`・・・塾生のつぶやき
 - `勉強会`・・・勉強会後の課題の提出場所
 - `日程`・・・この塾で開かれる予定のもの
@@ -115,6 +115,8 @@ Discordに投稿して始める旨伝えてください
 
 - [CSS grid](https://github.com/kenmori/handsonFrontend/blob/master/css/grid-work.md)
 
+- [【鍛えよう】reduceの使い方。reduceに強くなる記事。how to use reduce](https://github.com/kenmori/handsonFrontend/blob/master/javascript/reduce.md)
+
 - [Vim初心者の方が手を動かして学習する基本動作ハンズオン資料](https://github.com/kenmori/handsonFrontend/blob/master/vim/1.md)
 
 - [次世代フロントエンドツールViteを触るためのハンズオン(Next generation frontend tooling with Vite HandsOn)](https://github.com/kenmori/handsonFrontend/blob/master/vite/Work.md)
@@ -130,7 +132,23 @@ or
 
 - [マンダラチャート](https://kenjimorita.jp/mandarasheet-mandara-chart/)
 
+- [20分後にはfindコマンドが使いこなせるようになるハンズオン](https://github.com/kenmori/handsonFrontend/blob/master/linux/find/work1.md)
+
 以降、勉強会後こちらを更新します
+
+### JS課題
+
+- JS課題をやりましょう。
+できたらプルリクを出します。出し方はこちらを参照してください
+[PRの出し方](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md#pr%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9)
+
+### 言語チャレンジ
+
+新たに言語チャレンジという課題を設けました
+
+- [言語チャレンジ](https://github.com/kenmori/handsonFrontend/blob/master/work/basic/Work.md)
+
+
 ### レビューに関して
 
 `review.md`を参照
