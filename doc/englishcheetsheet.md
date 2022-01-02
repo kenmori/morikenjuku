@@ -7,6 +7,8 @@
 | ---- | ---- |
 |  variable  |  変数  |
 |  function  |  関数  |
+|  implement  |  実装する  |
+|  execute  |  実行する  |
 
 ## 文章
 
