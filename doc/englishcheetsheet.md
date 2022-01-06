@@ -9,6 +9,14 @@
 |  function  |  関数  |
 |  implement  |  実装する  |
 |  execute  |  実行する  |
+|  insert  |  挿入する、差し込む  |
+|  declare  |  宣言する  |
+|  occur  |  発生する  |
+|  try statement   |  tryブロック（catchやfinallyも同じ）  |
+|  Conditional (Ternary) Operator   |  条件 （三項） 演算子  |
+|  specification  |  仕様  |
+|  argument  |  実引数  |
+|  parameter  |  仮引数  |
 
 ## 文章
 
