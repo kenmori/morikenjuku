@@ -17,6 +17,16 @@
 |  specification  |  仕様  |
 |  argument  |  実引数  |
 |  parameter  |  仮引数  |
+|  row  |  行  |
+|  Spread operator  |  スプレッド構文  |
+|  range  |  範囲  |
+|  specific  |  特定の  |
+|  refer  |  参照する  |
+|  throw  |  投げる  |
+|  undo  |  元に戻す  |
+|  asynchronous  |  非同期の  |
+|  synchronous  |  同期の  |
+|  syntax  |  構文  |
 
 ## 文章
 
