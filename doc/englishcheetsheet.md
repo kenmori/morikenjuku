@@ -3,30 +3,39 @@
 ここの使い方、説明文が入ります
 ## 単語
 
+###### 名称（名詞）
 |  英語  |  日本語  |
 | ---- | ---- |
-|  variable  |  変数  |
-|  function  |  関数  |
-|  implement  |  実装する  |
-|  execute  |  実行する  |
-|  insert  |  挿入する、差し込む  |
-|  declare  |  宣言する  |
-|  occur  |  発生する  |
-|  try statement   |  tryブロック（catchやfinallyも同じ）  |
-|  Conditional (Ternary) Operator   |  条件 （三項） 演算子  |
-|  specification  |  仕様  |
 |  argument  |  実引数  |
+|  Conditional (Ternary) Operator   |  条件 （三項） 演算子  |
+|  function  |  関数  |
 |  parameter  |  仮引数  |
-|  row  |  行  |
-|  Spread operator  |  スプレッド構文  |
 |  range  |  範囲  |
-|  specific  |  特定の  |
+|  row  |  行  |
+|  specification  |  仕様  |
+|  Spread operator  |  スプレッド構文  |
+|  syntax  |  構文  |
+|  try statement   |  tryブロック（catchやfinallyも同じ）  |
+|  variable  |  変数  |
+
+###### 動詞
+|  英語  |  日本語  |
+| ---- | ---- |
+|  declare  |  宣言する  |
+|  execute  |  実行する  |
+|  implement  |  実装する  |
+|  insert  |  挿入する、差し込む  |
+|  occur  |  発生する  |
 |  refer  |  参照する  |
 |  throw  |  投げる  |
 |  undo  |  元に戻す  |
+
+###### 形容詞
+|  英語  |  日本語  |
+| ---- | ---- |
 |  asynchronous  |  非同期の  |
+|  specific  |  特定の  |
 |  synchronous  |  同期の  |
-|  syntax  |  構文  |
 
 ## 文章
 
