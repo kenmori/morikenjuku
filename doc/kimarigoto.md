@@ -88,6 +88,16 @@ Twitter内のDMでもお伝えした通り、以下のことを基本的に守�
 - 塾生として入っていても、なかなか環境の変化で学習習慣が定着しない方はこちらのタイミングでもくもく塾生に変更されます。一度習慣を作ってもらって、その後再度塾生になりたい場合はその旨を伝えてください
 - 3週間1度もアクティブじゃない方は一度キックしますが、また使いたい時にTwitter上でDMいただければ復帰可能です
 
+## 英語塾生とは
+
+- 森田に英語を教える <-> 自分がWeb技術を教える
+- 森田が英語のリスニングとスピーキングを強化するために新設されたもの
+- 教えていただける方には、同じ時間私の拙い英語ではありますが教えるというものです
+- お互い無料を想定しています
+詳しくは`englishmember.md`
+
+
+
 ## さよなら判断
 
 前提で、「どちら」も「いつでも」さよならできます
@@ -168,3 +178,5 @@ Discord内がアクティブになった回数です。
 - [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
 - [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
 - [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)
+- [英語チートシート](https://github.com/kenmori/morikenjuku/blob/main/doc/englishcheetsheet.md)
+- [英語塾生](https://github.com/kenmori/morikenjuku/blob/main/doc/englishmember.md)

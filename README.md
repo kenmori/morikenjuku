@@ -17,3 +17,5 @@ JavaScriptを学習したい方のコミュニティです
 - [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
 - [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
 - [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)
+- [英語チートシート](https://github.com/kenmori/morikenjuku/blob/main/doc/englishcheetsheet.md)
+- [英語塾生](https://github.com/kenmori/morikenjuku/blob/main/doc/englishmember.md)
