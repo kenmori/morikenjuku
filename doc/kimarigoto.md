@@ -25,10 +25,11 @@
 ## 学習ツール
 
 - Mac(Winの方はご自身で置き換えてください)
-- [Discord](https://discord.com/) 上でのやりとりになります
-- [github](https://github.com/)
-- [CodesandBox](https://codesandbox.io/)
-- [stackblitz.com](https://stackblitz.com/)
+- [Discord](https://discord.com/) 塾内のやりとりの際に必要です
+- [github](https://github.com/) レビューを受ける際に必要です
+- [CodesandBox](https://codesandbox.io/) JS課題のレビューを受ける際に必要です
+- [stackblitz.com](https://stackblitz.com/) 言語チャレンジのレビューを受ける際に必要です
+- [gather](https://gather.town/app) もくもくする際に必要です
 
 
 ## 個人情報に関して
@@ -69,12 +70,12 @@ Twitter内のDMでもお伝えした通り、以下のことを基本的に守�
 - Twitterプロフに[#もりけん塾]のタグを他タグ前よりにおくこと
 - 以下のアクションがあった場合Twitter上呟いてもらい `#もりけん塾`と`@terrace_tech`と`@教えてもらった方付き`をつけることにしています
   - 勉強会への参加表明、感想
-  - Discord内で何かを学んだ場合、もくもく部屋を利用した場合(塾生の場合積み上げ)
+  - Discord内で何かを学んだ場合、gatherを利用した場合(塾生の場合積み上げ)
 
 ## シニアができること
 
 - 塾生のレビュー(したい場合は教えてください)
-- もくもく部屋ボイスチャンネルの利用
+- gatherの利用
 - 勉強会での発表
 - 勉強会への参加(ゲスト参加)
 - 塾生に戻ること。(こちらが適切かは都度ヒアリングさせていただきます)
@@ -82,11 +83,20 @@ Twitter内のDMでもお伝えした通り、以下のことを基本的に守�
 
 ## もくもく塾生とは
 
-- サテライトサーバーでもくもく部屋ボイスチャンネル内でもくもくすることができる方です
-- 以下のアクションがあった場合Twitter上呟いてもらい `#もりけん塾`と`@terrace_tech`と`@教えてもらった方付き`をつけることにしています
-  サテライトサーバーにあるもくもく部屋を使った場合
+- gather内でもくもくすることができる方です
+- 以下のアクションがあった場合Twitter上呟いてもらい `#もりけん塾`と`@terrace_tech`と`@教えてもらった方付き`をつけることにしています。gatherを使った場合も同様。
 - 塾生として入っていても、なかなか環境の変化で学習習慣が定着しない方はこちらのタイミングでもくもく塾生に変更されます。一度習慣を作ってもらって、その後再度塾生になりたい場合はその旨を伝えてください
 - 3週間1度もアクティブじゃない方は一度キックしますが、また使いたい時にTwitter上でDMいただければ復帰可能です
+
+## 英語塾生とは
+
+- 森田に英語を教える <-> 自分がWeb技術を教える
+- 森田が英語のリスニングとスピーキングを強化するために新設されたもの
+- 教えていただける方には、同じ時間私の拙い英語ではありますが教えるというものです
+- お互い無料を想定しています
+詳しくは`englishmember.md`
+
+
 
 ## さよなら判断
 
@@ -112,6 +122,7 @@ Twitter内のDMでもお伝えした通り、以下のことを基本的に守�
 
 上記のことをすることでお互いメリットがあると考えています
 もし転職の際などでタグの印象を気にするようであれば相談の上判断しますのでおっしゃってください
+
 ### アクティブ数とは
 
 Discord内がアクティブになった回数です。
@@ -167,3 +178,5 @@ Discord内がアクティブになった回数です。
 - [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
 - [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
 - [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)
+- [英語チートシート](https://github.com/kenmori/morikenjuku/blob/main/doc/englishcheetsheet.md)
+- [英語塾生](https://github.com/kenmori/morikenjuku/blob/main/doc/englishmember.md)

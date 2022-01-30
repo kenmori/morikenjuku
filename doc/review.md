@@ -86,7 +86,15 @@ or
 - mergeされた後にコメントする場合、スレッド内に投稿してください
 - スレッドがなくなっていたら森田に教えてください
 - 自分は全てのPRのコードをもちろん見ますがコメントするタイミングは機会を潰さないように考えます。レビュワーに責任を持ってやってもらいたいのでわざと自分が入らないようにしたりしています
+- ガチャで当たった方は皆さん見てください。
 
+## レビューポイント
+
+- 正しく仕様通り動作するか
+   -> codeSandboxでガチャガチャ動かしてください。間違っていないかとか
+- コードに違和感がないか
+  -> この違和感が大事。あれ？と思ったら実際にcodeSandboxのコードを変更して確かめてみてください。もしくは不思議に思ったら質問するとか。こう書いても動きそう->ほら動いたとか。なぜこう書いているのだろうとか
+もしガチャで当たって、自分の課題より進んでいても仕様通り動いているかとか、CSSとか、わかる範囲で確かめられる、わからないなら質問でもいいので、そこら辺お願いしますね
 
 ## コミットメッセージ
 
@@ -206,3 +214,5 @@ IMO
 - [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
 - [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
 - [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)
+- [英語チートシート](https://github.com/kenmori/morikenjuku/blob/main/doc/englishcheetsheet.md)
+- [英語塾生](https://github.com/kenmori/morikenjuku/blob/main/doc/englishmember.md)

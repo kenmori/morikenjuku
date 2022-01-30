@@ -7,13 +7,14 @@
 - [Discord](https://discord.com/)ダウンロード
 - [github](https://github.com/)アカウントを作成
 - [Codesandbox](https://codesandbox.io/)アカウント作成
+- [stackblitz](https://stackblitz.com/)アカウント作成
 
 ・全てのアイコンをご自身の顔が分かるアイコンに統一してください
 ・ユーザー名は本名を入れてください。「ひらがな」でお願いします
 
 ## Discrod
 
-Discordに入ったらDiscrod内で私宛にご連絡ください
+Discordに入ったら`Discrod`内で私宛にご連絡ください
 権限を付与し見れる部屋を増やすためです
 
 部屋の種類
@@ -29,6 +30,8 @@ Discordに入ったらDiscrod内で私宛にご連絡ください
 - `今ふと思ったこと`・・・塾生のつぶやき
 - `勉強会`・・・勉強会後の課題の提出場所
 - `日程`・・・この塾で開かれる予定のもの
+- `英語生`・・・個別条件下でお互い英語でやりとりをして、お互いが家庭教師になる技術提供制度
+
 
 Discordの設定で以下を確認してください
 
@@ -178,3 +181,5 @@ or
 - [勉強会](https://github.com/kenmori/morikenjuku/blob/main/doc/benkyoukai.md)
 - [オリエンテーション](https://github.com/kenmori/morikenjuku/blob/main/doc/orien.md)
 - [レビュー](https://github.com/kenmori/morikenjuku/blob/main/doc/review.md)
+- [英語チートシート](https://github.com/kenmori/morikenjuku/blob/main/doc/englishcheetsheet.md)
+- [英語塾生](https://github.com/kenmori/morikenjuku/blob/main/doc/englishmember.md)
