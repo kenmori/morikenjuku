@@ -33,11 +33,16 @@
 |  英語  |  日本語  |
 | ---- | ---- |
 |  accumulate  |  蓄積する  |
+|  convert  |  変換する  |
 |  declare  |  宣言する  |
+|  encrypt  |  （データを）暗号化する  |
+|  evaluate  |  査定する  |
+|  extract  |  抽出する  |
 |  execute  |  実行する  |
 |  implement  |  実装する  |
 |  insert  |  挿入する、差し込む  |
 |  occur  |  発生する  |
+|  parse  |  分析する  |
 |  unpack  |  取り出す  |
 |  refer  |  参照する  |
 |  throw  |  投げる  |
@@ -48,6 +53,7 @@
 |  英語  |  日本語  |
 | ---- | ---- |
 |  asynchronous  |  非同期の  |
+|  concise  |  簡潔な  |
 |  inappropriate  |  不適切な  |
 |  specific  |  特定の  |
 |  synchronous  |  同期の  |
@@ -58,6 +64,7 @@
 | ---- | ---- | --- | -- |
 |  you should be ~  |  〜すべき  | this variables should be place here.| この変数はここに置くべき | [link](https://translate.google.com/?hl=ja&sl=ja&tl=en&text=%E3%81%93%E3%81%AE%E5%A4%89%E6%95%B0%E3%81%AF%E3%81%93%E3%81%93%E3%81%AB%E7%BD%AE%E3%81%8F%E3%81%B9%E3%81%8D%E3%81%A7%E3%81%99&op=translate)|
 |  error occurs (happensも間違いではない) |  エラーが起きる  | Error objects are thrown when runtime errors occur. | ランタイムエラーが発生すると、エラーオブジェクトがスローされます。 | [link](https://translate.google.com/?hl=ja&sl=en&tl=ja&text=Error%20objects%20are%20thrown%20when%20runtime%20errors%20occur.&op=translate)|
+|  convert A into(to) B |  AをBに変える  | we need to convert the user information to the object. | ユーザー情報をオブジェクトに変換する必要があります。 | [link](https://translate.google.com/?hl=ja&sl=en&tl=ja&text=we%20need%20to%20convert%20the%20user%20information%20to%20the%20object.&op=translate)|
 |  TD  |  TD  | TD | TD | TD |
 
 
