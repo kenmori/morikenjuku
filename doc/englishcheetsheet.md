@@ -13,6 +13,7 @@
 |  exception   |  例外  |
 |  expression   |  式  |
 |  function  |  関数  |
+|  functionality  |  機能性  |
 |  identifier  | 識別子  |
 |  integer  |  整数  |
 |  operand  |  被演算子（演算子の対象となるデータ値）  |
@@ -25,6 +26,7 @@
 |  Spread operator  |  スプレッド構文  |
 |  syntax  |  構文  |
 |  try statement   |  tryブロック（catchやfinallyも同じ）  |
+|  validity  |  正当性  |
 |  variable  |  変数  |
 
 ###### 動詞
@@ -33,16 +35,21 @@
 |  accumulate  |  蓄積する  |
 |  convert  |  変換する  |
 |  declare  |  宣言する  |
+|  decode  |  （暗号化されたデータやコードを）解読する  |
+|  encode  |  符号化する  |
 |  encrypt  |  （データを）暗号化する  |
 |  evaluate  |  査定する  |
 |  extract  |  抽出する  |
 |  execute  |  実行する  |
+|  handle  |  処理する  |
 |  implement  |  実装する  |
 |  insert  |  挿入する、差し込む  |
+|  iterate  |  繰り返す  |
 |  occur  |  発生する  |
 |  parse  |  分析する  |
 |  unpack  |  取り出す  |
 |  refer  |  参照する  |
+|  retrieve  |  取得する  |
 |  throw  |  投げる  |
 |  undo  |  元に戻す  |
 
@@ -51,6 +58,7 @@
 | ---- | ---- |
 |  asynchronous  |  非同期の  |
 |  concise  |  簡潔な  |
+|  executable  |  実行可能な  |
 |  inappropriate  |  不適切な  |
 |  specific  |  特定の  |
 |  synchronous  |  同期の  |
