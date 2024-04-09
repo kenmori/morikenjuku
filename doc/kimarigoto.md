@@ -29,7 +29,6 @@
 - Mac(Winの方はご自身で置き換えてください)
 - [Discord](https://discord.com/) 塾内のやりとりの際に必要です
 - [github](https://github.com/) レビューを受ける際に必要です
-- [CodesandBox](https://codesandbox.io/) JS課題のレビューを受ける際に必要です
 - [stackblitz.com](https://stackblitz.com/) 言語チャレンジのレビューを受ける際に必要です
 - [codewars](https://www.codewars.com/dashboard) 任意の課外活動です。
 
