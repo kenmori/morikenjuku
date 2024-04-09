@@ -82,7 +82,7 @@ or
 
 - レビューは上記で指定されていなくてもみなさん見てください
 - [ガチャ](https://codesandbox.io/s/vibrant-feistel-9ceun?file=/index.html)で当たらなかった方以外も見れるならみて指摘してもいいです。全員見てもいいですし、Approveしていいです
-- [ガチャ](https://codesandbox.io/s/vibrant-feistel-9ceun?file=/index.html)の方はマストです。たとえmergeされた後も見てください。見れないなら理由を添えてくれればskipしていいです。
+- [ガチャ](https://cosdesandbox.io/s/vibrant-feistel-9ceun?file=/index.html)の方はマストです。たとえmergeされた後も見てください。見れないなら理由を添えてくれればskipしていいです。
 - mergeされた後にコメントする場合、スレッド内に投稿してください
 - スレッドがなくなっていたら森田に教えてください
 - 自分は全てのPRのコードをもちろん見ますがコメントするタイミングは機会を潰さないように考えます。レビュワーに責任を持ってやってもらいたいのでわざと自分が入らないようにしたりしています
